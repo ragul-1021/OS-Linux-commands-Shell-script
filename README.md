@@ -1,4 +1,4 @@
-<img width="457" height="101" alt="Screenshot 2026-07-28 142905" src="https://github.com/user-attachments/assets/8c106bf9-ed7b-4828-b1c6-8d7730d6991c" /># OS-Linux-commands-Shell-scripting
+# OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
@@ -981,7 +981,9 @@ done
 $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
+
  ## OUTPUT
+ 
 <img width="616" height="331" alt="image" src="https://github.com/user-attachments/assets/4cc24414-f8a9-4a16-9cd8-0ae5d38f22f1" />
  
 cat forbreak.sh 
@@ -1164,8 +1166,7 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
-
- ![Uploading image.png…]()
+<img width="602" height="387" alt="image" src="https://github.com/user-attachments/assets/c74d04b8-d651-4889-8257-ed445ea210ba" />
 
 cat > palindrome.sh
 ```bash
@@ -1194,7 +1195,7 @@ fi
 ```
 ## OUTPUT 
 
-![Uploading image.png…]()
+<img width="612" height="582" alt="image" src="https://github.com/user-attachments/assets/42160f59-9e14-41b0-ad41-a37fd5995b15" />
 
 # RESULT:
 The Commands are executed successfully.
